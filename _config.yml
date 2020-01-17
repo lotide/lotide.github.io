@@ -4,3 +4,5 @@ description: A system for creating dynamic music.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+github:
+  repository_url: https://github.com/LoTide
