@@ -2,5 +2,7 @@ title: LoTide
 logo: /assets/img/logo.png
 description: A system for creating dynamic music.
 show_downloads: true
+github:
+  repository_url: https://github.com/lotide
 google_analytics:
 theme: jekyll-theme-minimal
