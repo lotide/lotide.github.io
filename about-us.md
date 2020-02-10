@@ -13,7 +13,7 @@ Ian Park is an enthusiast of systems software and content-creation software. His
 ---
 
 ![Nykamp](./assets/img/temp.png){:style="float: left;margin-right: 10px;;width: 150px;height: auto;"}
-### Matthew Nykamp | [GitHub](https://github.com/Agueliethun) 
+### Matthew Nykamp | [GitHub](https://github.com/Agueliethun) | [Resume](./assets/docs/matthew-nykamp-resume.pdf)
 Matthew Nykamp is a music hobbyist and game developer in his free time, and his experiences - a lack of an accessible, easy-to-use adaptive music creation tool - led to the genesis of this project. He hopes to create a tool that other creators like him can use.
 
 <div style="clear:left"/>
