@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[About Us](./about-us.html) | [Calvin CS](https://computing.calvin.edu/) | [Senior Projects](https://computing.calvin.edu/) | [Final Report](./assets/docs/final-report.pdf) | [Presentation](./presentation.html)
+[About Us](./about-us.html) | [Calvin CS](https://computing.calvin.edu/) | [Final Report](./assets/docs/final-report.pdf) | [Presentation](./presentation.html)
 # Vision
 ## Problem
 Adaptive music is a recent paradigm of composition that accounts for the non-linearity of video games. Using techniques like horizontal scaling, a song can slowly transition into another song; and vertical techniques can re-orchestrate the current song. These techniques make for a more immersive experience as the soundtrack adapts to a player’s surroundings.
