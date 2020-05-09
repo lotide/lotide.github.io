@@ -3,6 +3,7 @@ description: A system for creating dynamic music.
 show_downloads: true
 github:
   repository_url: https://github.com/lotide
+  is_project_page: true
 google_analytics:
 theme: jekyll-theme-minimal
 github:
